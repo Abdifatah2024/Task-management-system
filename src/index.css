@@ -84,6 +84,10 @@ button {
   border-radius: 4px;
   cursor: pointer;
 }
+.Save-btn{
+  margin-top: 10px;
+  width: 100%;
+}
 
 button:hover {
   opacity: 0.9;
@@ -102,6 +106,9 @@ button:hover {
 .edit-buttons {
   display: flex;
   justify-content: space-between;
+}
+.completed{
+  color: #28a745;
 }
 .completed-tasks {
   background: white;
